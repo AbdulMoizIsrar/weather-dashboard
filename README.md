@@ -30,6 +30,6 @@ To run this project locally:
 👨‍💻 Author
 Abdul Moiz Israr
 
-LinkedIn: []
+LinkedIn: [https://www.linkedin.com/in/abdul-moiz-israr-51b5362b4/]
 
 GitHub: [https://github.com/AbdulMoizIsrar]
