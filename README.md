@@ -18,7 +18,7 @@ A modern, responsive weather application built to provide real-time global weath
 ## 💻 Tech Stack
 * **Frontend:** HTML5, CSS3 (Glassmorphism, Variables, Animations)
 * **Logic:** Vanilla JavaScript (ES6+, Async/Await, Fetch API)
-* **Data Source:** [OpenWeatherMap API](https://openweathermap.org/api)
+* **Data Source:** [OpenWeatherMap API](https://home.openweathermap.org/api_keys)
 
 ## ⚙️ Local Setup
 To run this project locally:
