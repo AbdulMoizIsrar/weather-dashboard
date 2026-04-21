@@ -26,3 +26,10 @@ To run this project locally:
 1. Clone the repository:
    ```bash
    git clone: https://github.com/AbdulMoizIsrar/weather-dashboard.git
+
+👨‍💻 Author
+Abdul Moiz Israr
+
+LinkedIn: []
+
+GitHub: []
