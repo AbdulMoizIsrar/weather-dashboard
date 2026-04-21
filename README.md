@@ -1,6 +1,6 @@
 # 🌤️ Global Weather Dashboard
 
-![Weather Dashboard Preview]![Weather Dashboard Preview](https://github.com/user-attachments/assets/83d7d396-bb3d-403b-a2c2-dd8a7c3fc66b)
+Weather Dashboard Preview [Weather Dashboard Preview](https://github.com/user-attachments/assets/83d7d396-bb3d-403b-a2c2-dd8a7c3fc66b)
 
 ## 📌 Overview
 A modern, responsive weather application built to provide real-time global weather data and a 5-day forecast. Designed with a sleek glassmorphism UI and an animated HTML5 Canvas starfield background, this project demonstrates asynchronous API integration, dynamic DOM manipulation, and state management using vanilla JavaScript.
