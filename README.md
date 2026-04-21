@@ -5,7 +5,7 @@
 ## 📌 Overview
 A modern, responsive weather application built to provide real-time global weather data and a 5-day forecast. Designed with a sleek glassmorphism UI and an animated HTML5 Canvas starfield background, this project demonstrates asynchronous API integration, dynamic DOM manipulation, and state management using vanilla JavaScript.
 
-**🔴 [Live Demo](insert-your-live-link-here)**
+**🔴 [Live Demo] https://abdulmoizisrar.github.io/weather-dashboard /**
 
 ## 🚀 Features
 * **Real-Time Weather Data:** Fetches current temperature, humidity, wind speed, visibility, and "feels like" metrics.
