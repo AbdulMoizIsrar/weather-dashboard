@@ -32,4 +32,4 @@ Abdul Moiz Israr
 
 LinkedIn: []
 
-GitHub: []
+GitHub: [https://github.com/AbdulMoizIsrar]
