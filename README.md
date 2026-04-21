@@ -25,4 +25,4 @@ To run this project locally:
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/yourusername/weather-dashboard-app.git](https://github.com/yourusername/weather-dashboard-app.git)
+   git clone: https://github.com/AbdulMoizIsrar/weather-dashboard.git
